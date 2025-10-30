@@ -1,0 +1,6 @@
+# Compilados
+carrito
+carrito_compras
+*.o
+*.exe
+/build/
