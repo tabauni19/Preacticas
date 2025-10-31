@@ -1,0 +1,8 @@
+# Doxygen config (mínimo viable)
+PROJECT_NAME = "ProductoTienda-CPP"
+OUTPUT_DIRECTORY = "./docs/build"
+INPUT = "./include"
+RECURSIVE = YES
+GENERATE_HTML = YES
+GENERATE_LATEX = NO
+QUIET = YES
